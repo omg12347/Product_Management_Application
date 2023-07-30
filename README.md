@@ -2,6 +2,14 @@
 
 The Product Management App is a simple command-line tool that allows users to manage a list of products. It provides registration and login functionality to ensure that only authorized users can access and manage the product list.
 
+## Demo Video
+
+
+
+https://github.com/omg12347/Product_Management_Application/assets/97293861/35d57610-d90b-416d-a6e9-d945a13a0133
+
+
+
 ## Features
 
 - **User Registration and Login:** Users can register with a unique username and password. Once registered, they can log in to access the product management options.
